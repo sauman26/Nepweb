@@ -32,6 +32,10 @@ body{
 	padding-top: 10px;
 	float:left;
 }
+.logo a{
+	color:orange;
+	text-decoration: none;
+}
 .menu{
 	width:400px;
 	float:left;
