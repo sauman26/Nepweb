@@ -1,0 +1,115 @@
+
+.formm {
+	width:250px;
+	height:380px;
+	background:linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+	position:relative;
+	top:-20px;
+	left:870px;
+	border-radius: 10px;
+	padding:25px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.formm h2{
+	width:220px;
+	font-family: sans-serif;
+	text-align: center;
+	background:#ff7200;
+	font-size: 22px;
+	color:black;
+	border-radius: 10px;
+	margin:2px;
+	padding:8px;
+
+}
+.formm input{
+width: 240px;
+height: 35px;
+background: transparent;
+border-bottom:1px solid #ff7200;
+border-top:none;	
+border-right:none;
+border-left:none;
+color:white;
+font-size: 15px;
+letter-spacing:1px;
+margin-top:30px;
+font-family:sans-serif ;
+}
+.formm imput:focus{
+	outline:none;
+
+}
+::placeholder {
+	color:white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.bttnn {
+	width:240px;
+	height:40px;
+	background:#ff7200;
+	border:none;
+	margin-top: 30px;
+	border-radius:10px;
+	cursor: pointer;
+	color:white;
+	transition: 0.9s ease;
+	font-size: 20px;
+}
+.bttnn:hover{
+	background: white;
+	color:#ff7200;
+
+
+}
+.bttnn a{
+	text-decoration: none;
+	color:black;
+	font-weight: bold;
+}
+.formm.login {
+	width:1em;
+	
+}
+.linkk{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	padding-top: 20px;
+	text-align: center;
+
+}
+.linkk a{
+	text-decoration: none;
+	color:#ff7200;
+
+}
+
+.liww{
+	padding-top: 15px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.bike {
+	width:30px;
+	height:30px;
+	image
+
+}
+.bi{
+	text-decoration: none;
+	color:white;
+	text-justify: distribute;
+	font-size:13px;
+
+}
+.bi:hover {
+	background: black;
+	color:#ff7200;
+}
